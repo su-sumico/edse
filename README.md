@@ -1,9 +1,8 @@
 The datasets and materials used in the class are stored in each folder.
 * 00: python
-* 01: csv data
-* 02: machine learning overview
-* 03: regression
-* 04: simple regression
-* 05: multiple regression
-* 06: classification
-* 07: random forest classification
+* 01: machine learning overview
+* 02: regression
+* 03: simple regression
+* 04: multiple regression
+* 05: classification
+* 06: random forest classification
