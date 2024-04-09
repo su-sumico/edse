@@ -11,7 +11,7 @@ page 4
 ![image](https://user-images.githubusercontent.com/130117169/236115380-7f03d0a8-6756-47a7-adea-0e34857d045c.png)
 ---
 page 5
-![image](https://github.com/SU-sumico/edse/assets/130117169/342a078f-5197-4b9d-9925-8d940d145e06)
+![image](https://github.com/su-sumico/edse/assets/161304268/bc9e1050-f982-4700-8fb9-fc05125b5f9c)
 ---
 page 6
 ![image](https://user-images.githubusercontent.com/130117169/236115433-a974efd9-2727-4989-855d-49c9544ca7b8.png)
