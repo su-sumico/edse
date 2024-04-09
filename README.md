@@ -1,4 +1,4 @@
-The datasets and materials used in the class are stored in each folder.
+The datasets and materials used in the class are stored in **each folder**.
 * 00: python
 * 01: machine learning overview
 * 02: regression
