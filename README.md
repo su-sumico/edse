@@ -6,3 +6,5 @@ The datasets and materials used in the class are stored in **each folder**.
 * 04: multiple regression
 * 05: classification
 * 06: random forest classification
+* 07: (classification algorithm) logistic regression
+
