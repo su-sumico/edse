@@ -11,7 +11,7 @@ page 4
 ![image](https://github.com/su-sumico/edsj/assets/161304268/4d4691ab-bc47-4a40-af32-c24bade65451)
 ---
 page 5
-![image](https://github.com/su-sumico/edsj/assets/161304268/5ba0da80-dac7-404e-b956-55bcc75ac9ff)
+![image](https://github.com/su-sumico/edse/assets/161304268/1be304c0-1d09-4f10-a8d5-b3e96c15b274)
 ---
 page 6
 ![image](https://github.com/su-sumico/edsj/assets/161304268/783f3442-5146-47ee-9800-efb6179e6066)
@@ -19,4 +19,3 @@ page 6
 page 7
 ![image](https://github.com/su-sumico/edsj/assets/161304268/b441fccb-79ba-4edf-b12a-d9440cb1e04a)
 ---
-
